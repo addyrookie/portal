@@ -11,6 +11,9 @@ gem 'sqlite3'
 # my annonate_models
 gem 'annotate-models', '1.0.4'
 
+#my pagination gem
+gem 'will_paginate', '3.0.pre2'
+
 # Use unicorn as the web server
 # gem 'unicorn'
 
@@ -23,7 +26,7 @@ gem 'annotate-models', '1.0.4'
 
 # Bundle the extra gems:
 # gem 'bj'
-# gem 'nokogiri'
+  gem 'nokogiri'
 # gem 'sqlite3-ruby', :require => 'sqlite3'
 # gem 'aws-s3', :require => 'aws/s3'
 
