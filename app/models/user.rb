@@ -11,6 +11,7 @@
 #
 
 class User < ActiveRecord::Base
+has_many :apps
 attr_accessor :password
 attr_accessible :name, :email, :password, :password_confirmation
 

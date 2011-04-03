@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  app: 
+  bug_des: MyString
+  status: false
+
+two:
+  app: 
+  bug_des: MyString
+  status: false
